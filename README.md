@@ -1,7 +1,7 @@
 ### BIENVENIDO
 - 👋 Hola!, me llamo Jeisson
 - 👀 Soy apasionado en la tecnologia
-- 🌱 Actualmente estoy aprendiendo devops...
+- 🌱 Actualmente estoy aprendiendo Cloud...
 - 💞️ Adoro jugar videojuegos y ver series
 <h2> 🚀 &nbsp;Tecnologias en las cuales trabajo</h2>
 <p align="left">
