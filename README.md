@@ -2,7 +2,7 @@
 
 # 👨‍💻 Jeisson
 
-### Java Backend Developer • Cloud Developer
+### Backend Developer • Cloud Developer
 
 *"Turning ideas into scalable solutions."*
 
